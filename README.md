@@ -162,6 +162,22 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [WFH.io](https://www.wfh.io/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](http://www.workingnomads.co/jobs)
+  1. [ATLAS & BOOTS] (https://www.atlasandboots.com/remote-jobs/)
+  1. [DNXJobs] (https://www.dnxjobs.de/)
+  1. [Forget the commute] (http://forgetthecommute.com/)
+  1. [Infinite Nomad] (http://www.infinitenomad.com/remote-jobs/)
+  1. [Let work remotely] (http://www.letsworkremotely.com/jobs/#.Wi_HBx1l88o)
+  1. [Remote Job Solutions] (http://www.remotejobsolutions.com/job-offers/)
+  1. [JobScribe] (http://jobscribe.com/)
+  1. [Remote Work Hub] (https://remoteworkhub.com/)
+  1. [Remote working] (http://www.remoteworking.co/)
+  1. [Remote com] (https://remote.com/)
+  1. [Pangina] (http://pangian.com/)
+  1. [Remoters] (http://www.remoters.io/)
+  1. [Taimingu] (https://taimingu.com/)
+  1. [Remote jobs telecommunity] (http://remotejobs.telecommunity.net/)
+  1. [Travel me world] (http://www.travelme.world/job-travel-remote/)
+  1. [Work Crew]  (https://workew.com/)
 
 ## Job boards aggregators
   1. [Alfred](https://alfred.serafin.io/) - Remote jobs aggregator.
@@ -224,6 +240,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
 
 ## Companies with "remote DNA"
+  1. [200+ Startups hiring Remotely in 2017] (https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=0)
   1. [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators.
   1. [AgentFire](https://agentfire.com/meet-our-team/) - Hyper local real estate websites powered by Wordpress.
   1. [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
