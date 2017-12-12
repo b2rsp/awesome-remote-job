@@ -178,6 +178,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote jobs telecommunity] (http://remotejobs.telecommunity.net/)
   1. [Travel me world] (http://www.travelme.world/job-travel-remote/)
   1. [Work Crew]  (https://workew.com/)
+  1. [Power to fly] (https://powertofly.com/jobs/)
 
 ## Job boards aggregators
   1. [Alfred](https://alfred.serafin.io/) - Remote jobs aggregator.
@@ -241,6 +242,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Companies with "remote DNA"
   1. [200+ Startups hiring Remotely in 2017] (https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=0)
+  1. [Teleport list of remote companies] (https://docs.google.com/spreadsheets/d/1uDdDyheNY_-Z3MtuNoFdBYBooBnUTmlYCOZ3VhcN9Sw/edit?pli=1#gid=0)
   1. [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators.
   1. [AgentFire](https://agentfire.com/meet-our-team/) - Hyper local real estate websites powered by Wordpress.
   1. [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
@@ -425,6 +427,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Communities
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
+1. [/r/digitalnomad/] (https://www.reddit.com/r/digitalnomad/) - Subreddit.
 1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
 1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
 1. [Remote Year](http://www.remoteyear.com/) - Traveling techies for 1 year.
